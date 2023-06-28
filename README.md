@@ -8,7 +8,6 @@
   <img align="center" alt="Balto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Balto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Balto-Postgres" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png?f=avif&w=100">
-  <img align="right" alt="Balto-pic" height="100" style="border-radius:20px;" src="https://media.licdn.com/dms/image/C4D03AQHWi8c5MQjqzQ/profile-displayphoto-shrink_800_800/0/1643724091856?e=1681948800&v=beta&t=ABeg1VDEtS60K9eGUofOjV9ru0OLpfpMsDj1OU2erYc">
 </div>
   
   ##
